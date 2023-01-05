@@ -1,7 +1,3 @@
-<div>
-  <link rel="icon" type="image/x-icon" href="https://img.icons8.com/pastel-glyph/512/globe.png">
-</div>
-
 <div id="header" align="center">
   This organization for work from college
 </div>
