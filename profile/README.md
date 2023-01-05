@@ -19,6 +19,6 @@
     Learn more
   </summary>
 
-  This is my [Student](https://github.com/BuJetsadaWijit) Account and This is my [License](https://github.com/1640705339) Read it!!
+  This is my [Student](https://github.com/BuJetsadaWijit) Account and This is my [License](https://github.com/UniversityBangkokStudentID1640705339) Read it!!
 
 </details>
